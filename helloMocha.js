@@ -49,6 +49,12 @@ var assert = require('assert');
       
     });
 
+    it('Lisa test 3 new', function() {
+
+        var c = a/b;
+      
+    });
+
 
 
 })
