@@ -49,6 +49,12 @@ var assert = require('assert');
       
     });
 
+    it('Test on second branch', function() {
+
+        var c = a/b;
+      
+    });
+
 
 
 })
