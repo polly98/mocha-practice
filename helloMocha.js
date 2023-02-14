@@ -43,6 +43,12 @@ var assert = require('assert');
         assert.equal(c, 10/12);
     });
 
+    it('Division of two 33333', function() {
+
+        var c = a/b;
+      
+    });
+
 
 
 })

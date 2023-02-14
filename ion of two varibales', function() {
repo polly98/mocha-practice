@@ -1,0 +1,17 @@
+[33mcommit eeb0d5debbd15ab063f39f6af94a8259dcdd462f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Palina <palina.nalbandian@cleverlance.com>
+Date:   Tue Feb 14 13:19:31 2023 +0100
+
+    New test added
+
+[33mcommit fbbc427e33ff0d8237d1d62e01c968e342e677d2[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Palina <palina.nalbandian@cleverlance.com>
+Date:   Tue Feb 14 13:06:45 2023 +0100
+
+    add new assertions
+
+[33mcommit 386ffc30a615c6df9b00afb027bcec9150d10421[m
+Author: Palina <palina.nalbandian@cleverlance.com>
+Date:   Tue Feb 14 12:50:53 2023 +0100
+
+    Initialized mocha project.
