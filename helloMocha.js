@@ -34,6 +34,16 @@ var assert = require('assert');
         assert.equal(c, 10/12);
     });
 
+    it('Division of two varibales222222', function() {
+
+        var c = a/b;
+        assert.equal(c, 10/12);
+        assert.equal(c, 10/12);
+        assert.equal(c, 10/12);
+        assert.equal(c, 10/12);
+    });
+
+
 
 })
 
