@@ -29,8 +29,9 @@ var assert = require('assert');
 
         var c = a/b;
         assert.equal(c, 10/12);
-
-
+        assert.equal(c, 10/12);
+        assert.equal(c, 10/12);
+        assert.equal(c, 10/12);
     });
 
 
