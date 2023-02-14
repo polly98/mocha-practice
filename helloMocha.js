@@ -50,7 +50,7 @@ var assert = require('assert');
     });
 
     it('Lisa test five', function() {
-        //bug
+        
         var c = a/b;
       
     });
